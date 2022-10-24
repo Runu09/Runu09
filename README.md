@@ -1,4 +1,11 @@
-# Skill_Test
-이것저것 풀어보면서 작성하는 페이지   
+<div align="center">   
 
-사용하는 언어 : JAVA
+![header](https://capsule-render.vercel.app/api?type=slice&color=random&section=header&text=SU_CHANG's_ReadMe&fontSize=40&rotate=8&fontAlign=75&fontAlignY=25)   
+
+### 방문자 수   
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D5C93E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
+
+
+
+</div>
