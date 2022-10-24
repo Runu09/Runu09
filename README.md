@@ -1,6 +1,6 @@
 <div align="center">   
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=random&section=header&text=SU_CHANG's_ReadMe&fontSize=37&rotate=8&fontAlign=75&fontAlignY=25)   
+![header](https://capsule-render.vercel.app/api?type=slice&color=random&section=header&text=SU_CHANG's&desc=ReadMe&fontSize=33&descSize=25&rotate=8&fontAlign=75&fontAlignY=10&descAlign=88&descAlignY=33)   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runu09&show_icons=true&theme=radical)
 
