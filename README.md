@@ -8,7 +8,7 @@
 ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
 
 <a href="#none"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/></a>
-
+<a href="https://www.notion.so/runu94/4d58a084931a418c85bb8e255fae5de0"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
 </div>
