@@ -38,5 +38,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSTL/EL-0078D6?style=flat-square&logo=JSTL/EL&logoColor=white"/>
   
 </div>
