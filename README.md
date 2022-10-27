@@ -16,7 +16,7 @@
 
 <br><br>
   
-# :star2: SKILL :star2:
+## :star2: SKILL :star2:
   
 <!-- ### :loudspeaker: Front -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSTL/EL-0078D6?style=flat-square&logo=JSTL/EL&logoColor=white"/>
 
-# :thought_balloon:
+## :thought_balloon:
   
 ##### 꾸준히 공부해야겠다!!
   
