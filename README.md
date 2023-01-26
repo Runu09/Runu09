@@ -13,6 +13,7 @@
 
 <a href="https://www.instagram.com/su_chang09/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/></a>
 <a href="https://www.notion.so/runu94/4d58a084931a418c85bb8e255fae5de0"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://runu09.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 <br><br>
   
